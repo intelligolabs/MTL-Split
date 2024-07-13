@@ -1,5 +1,7 @@
 # MTL-Split: Multi-Task Learning for Edge Devices using Split Computing #
 
+Official implementation of the paper [MTL-Split: Multi-Task Learning for Edge Devices using Split Computing](https://intelligolabs.github.io/MTL-Split/) accepted at the 61st Design Automation Conference (DAC 2024).
+
 ## Installation ##
 **1. Repository setup:**
 * `$ git clone https://github.com/intelligolabs/MTL-Split`
@@ -18,7 +20,7 @@ Optionally, you can also log the training and evaluation to [wandb](https://wand
 
 ## Run MTL-Split ##
 To run MTL-Split, use the file `main.py`.
-In particular, the `launch.sh` file it contains two example (STL & MTL) of a launch script exmaple that you can use to modify the default configuration.
+In particular, the `launch.sh` file contains two examples (STL & MTL) of a launch script example that you can use to modify the default configuration.
 
 ## Authors ##
 Luigi Capogrosso<sup>1</sup>, Enrico Fraccaroli<sup>1,2</sup>, Samarjit Chakraborty<sup>2</sup>, Franco Fummi<sup>1</sup>, Marco Cristani<sup>1</sup>
