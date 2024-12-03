@@ -32,12 +32,13 @@ Luigi Capogrosso<sup>1</sup>, Enrico Fraccaroli<sup>1,2</sup>, Samarjit Chakrabo
 <sup>1</sup> `name.surname@univr.it`, <sup>2</sup> `enrifrac@cs.unc.edu`, `samarjit@cs.unc.edu`
 
 ## Citation ##
-If you use [**MTL-Split**](https://arxiv.org/abs/2407.05982), please, cite the following paper:
+If you use [**MTL-Split**](https://dl.acm.org/doi/abs/10.1145/3649329.3655686), please, cite the following paper:
 ```
-@article{capogrosso2024mtl,
-  title={MTL-Split: Multi-Task Learning for Edge Devices using Split Computing},
-  author={Capogrosso, Luigi and Fraccaroli, Enrico and Chakraborty, Samarjit and Fummi, Franco and Cristani, Marco},
-  journal={arXiv preprint arXiv:2407.05982},
-  year={2024}
+@InProceedings{capogrosso2024mtl,
+  author     = {Capogrosso, Luigi and Fraccaroli, Enrico and Chakraborty, Samarjit and Fummi, Franco and Cristani, Marco},
+  booktitle  = {61st Design Automation Conference (DAC)},
+  title      = {{MTL-Split: Multi-Task Learning for Edge Devices using Split Computing}},
+  year       = {2024},
+  doi        = {10.1145/3649329.3655686},
 }
 ```
